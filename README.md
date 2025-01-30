@@ -59,7 +59,7 @@ Example Response:
   "condition": "Partly cloudy"
 }
 
-### **🌍 Deployment Guide**
+### **🌍 Deployment (Using Online Service) Guide**
 
 You can deploy this microservice on various cloud platforms, here is the guide for using Render:
 
